@@ -1,2 +1,1 @@
-# Androidsample
-Print hello
+# Sample
